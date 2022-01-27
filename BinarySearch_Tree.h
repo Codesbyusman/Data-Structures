@@ -1,9 +1,3 @@
-/*
-	Muhammad Usman Shahid
-	   Assignment 03
-          20i-1797
-		     T
-*/
 
 #pragma once
 
